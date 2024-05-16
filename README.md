@@ -2,6 +2,8 @@
 
 This script generates a visual representation of a directory tree, excluding files and directories specified in a `.gitignore` file and some default patterns such as `.git`, `.gitignore`, and `.idea`.
 
+I use PyCharm and some of the directories are specifically excluded for Pycharm users.
+
 ## Features
 
 - Reads `.gitignore` file to exclude specified files and directories.
